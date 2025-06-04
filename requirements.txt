@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+Pillow
+pikepdf
+python-multipart
+brotli
+requests
+lxml
+bsdiff4
+python-dotenv
+flif
+pyheif
+slowapi
